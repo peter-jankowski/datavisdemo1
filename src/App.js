@@ -40,6 +40,21 @@ export default function App() {
         }
       });
 
+      // map.addLayer({
+      //   'id': 'buildings-fills',
+      //   'type': 'fill',
+      //   'source': 'buildings',
+      //   'layout': {},
+      //   'paint': {
+      //     'fill-color': '#627BC1',
+      //     'fill-opacity': [
+      //       'case',
+      //       ['boolean', ['feature-state', 'hover'], false],
+      //       1,
+      //       0.5
+      //     ]
+      //   }
+      // });
       map.addLayer({
         'id': 'buildings-fills',
         'type': 'fill',
@@ -47,12 +62,7 @@ export default function App() {
         'layout': {},
         'paint': {
           'fill-color': '#627BC1',
-          'fill-opacity': [
-            'case',
-            ['boolean', ['feature-state', 'hover'], false],
-            1,
-            0.5
-          ]
+          'fill-opacity': 0.5
         }
       });
 

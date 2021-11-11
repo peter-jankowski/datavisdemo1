@@ -4,7 +4,67 @@
       "type": "Feature",
       "properties": {
         "id": 3,
-        "name": "Boylston"
+        "name": "Boylston",
+        "monday": {
+          "9am":0,
+          "10am":0,
+          "11am":0,
+          "12pm":0,
+          "1pm":0,
+          "2pm":0,
+          "3pm":96,
+          "4pm":0,
+          "5pm":0,
+          "6pm":0
+        },
+        "tuesday": {
+          "9am":0,
+          "10am":84,
+          "11am":84,
+          "12pm":0,
+          "1pm":0,
+          "2pm":0,
+          "3pm":0,
+          "4pm":0,
+          "5pm":0,
+          "6pm":0
+        },
+        "wednesday": {
+          "9am":0,
+          "10am":0,
+          "11am":0,
+          "12pm":0,
+          "1pm":0,
+          "2pm":0,
+          "3pm":96,
+          "4pm":0,
+          "5pm":0,
+          "6pm":0
+        },
+        "thursday": {
+          "9am":0,
+          "10am":0,
+          "11am":0,
+          "12pm":0,
+          "1pm":0,
+          "2pm":0,
+          "3pm":0,
+          "4pm":0,
+          "5pm":0,
+          "6pm":0
+        },
+        "friday": {
+          "9am":0,
+          "10am":0,
+          "11am":0,
+          "12pm":0,
+          "1pm":0,
+          "2pm":0,
+          "3pm":96,
+          "4pm":0,
+          "5pm":0,
+          "6pm":0
+        }
       },
       "geometry": {
         "coordinates": [
@@ -39,7 +99,67 @@
       "type": "Feature",
       "properties": {
         "id": 5,
-        "name": "Art Museum"
+        "name": "Art Museum",
+        "monday": {
+          "9am":0,
+          "10am":0,
+          "11am":0,
+          "12pm":90,
+          "1pm":0,
+          "2pm":0,
+          "3pm":0,
+          "4pm":0,
+          "5pm":0,
+          "6pm":0
+        },
+        "tuesday": {
+          "9am":252,
+          "10am":97,
+          "11am":97,
+          "12pm":0,
+          "1pm":0,
+          "2pm":0,
+          "3pm":0,
+          "4pm":0,
+          "5pm":0,
+          "6pm":0
+        },
+        "wednesday": {
+          "9am":0,
+          "10am":0,
+          "11am":0,
+          "12pm":90,
+          "1pm":0,
+          "2pm":0,
+          "3pm":0,
+          "4pm":0,
+          "5pm":0,
+          "6pm":0
+        },
+        "thursday": {
+          "9am":252,
+          "10am":97,
+          "11am":97,
+          "12pm":0,
+          "1pm":0,
+          "2pm":0,
+          "3pm":0,
+          "4pm":0,
+          "5pm":0,
+          "6pm":0
+        },
+        "friday": {
+          "9am":0,
+          "10am":0,
+          "11am":0,
+          "12pm":0,
+          "1pm":0,
+          "2pm":0,
+          "3pm":0,
+          "4pm":0,
+          "5pm":0,
+          "6pm":0
+        }
       },
       "geometry": {
         "coordinates": [
@@ -138,7 +258,67 @@
       "type": "Feature",
       "properties": {
         "id": 11,
-        "name": "Jefferson"
+        "name": "Jefferson",
+        "monday": {
+          "9am":0,
+          "10am":0,
+          "11am":0,
+          "12pm":0,
+          "1pm":0,
+          "2pm":0,
+          "3pm":0,
+          "4pm":0,
+          "5pm":0,
+          "6pm":0
+        },
+        "tuesday": {
+          "9am":0,
+          "10am":0,
+          "11am":0,
+          "12pm":75,
+          "1pm":0,
+          "2pm":0,
+          "3pm":0,
+          "4pm":0,
+          "5pm":0,
+          "6pm":0
+        },
+        "wednesday": {
+          "9am":0,
+          "10am":0,
+          "11am":0,
+          "12pm":0,
+          "1pm":0,
+          "2pm":0,
+          "3pm":0,
+          "4pm":0,
+          "5pm":0,
+          "6pm":0
+        },
+        "thursday": {
+          "9am":0,
+          "10am":0,
+          "11am":0,
+          "12pm":75,
+          "1pm":0,
+          "2pm":0,
+          "3pm":0,
+          "4pm":0,
+          "5pm":0,
+          "6pm":0
+        },
+        "friday": {
+          "9am":0,
+          "10am":0,
+          "11am":0,
+          "12pm":0,
+          "1pm":0,
+          "2pm":0,
+          "3pm":0,
+          "4pm":0,
+          "5pm":0,
+          "6pm":0
+        }
       },
       "geometry": {
         "coordinates": [
@@ -205,7 +385,67 @@
       "type": "Feature",
       "properties": {
         "id": 10,
-        "name": "Northwest Labs"
+        "name": "Northwest Labs",
+        "monday": {
+          "9am":83,
+          "10am":101,
+          "11am":101,
+          "12pm":123,
+          "1pm":0,
+          "2pm":0,
+          "3pm":0,
+          "4pm":0,
+          "5pm":0,
+          "6pm":0
+        },
+        "tuesday": {
+          "9am":0,
+          "10am":112,
+          "11am":112,
+          "12pm":0,
+          "1pm":0,
+          "2pm":0,
+          "3pm":0,
+          "4pm":0,
+          "5pm":0,
+          "6pm":0
+        },
+        "wednesday": {
+          "9am":83,
+          "10am":101,
+          "11am":101,
+          "12pm":123,
+          "1pm":0,
+          "2pm":0,
+          "3pm":0,
+          "4pm":0,
+          "5pm":0,
+          "6pm":0
+        },
+        "thursday": {
+          "9am":0,
+          "10am":112,
+          "11am":112,
+          "12pm":0,
+          "1pm":0,
+          "2pm":0,
+          "3pm":0,
+          "4pm":0,
+          "5pm":0,
+          "6pm":0
+        },
+        "friday": {
+          "9am":0,
+          "10am":0,
+          "11am":0,
+          "12pm":123,
+          "1pm":0,
+          "2pm":0,
+          "3pm":0,
+          "4pm":0,
+          "5pm":0,
+          "6pm":0
+        }
       },
       "geometry": {
         "coordinates": [
@@ -280,7 +520,67 @@
       "type": "Feature",
       "properties": {
         "id": 4,
-        "name": "Emerson"
+        "name": "Emerson",
+        "monday": {
+          "9am":0,
+          "10am":0,
+          "11am":0,
+          "12pm":0,
+          "1pm":238,
+          "2pm":238,
+          "3pm":0,
+          "4pm":0,
+          "5pm":0,
+          "6pm":0
+        },
+        "tuesday": {
+          "9am":0,
+          "10am":0,
+          "11am":0,
+          "12pm":0,
+          "1pm":0,
+          "2pm":0,
+          "3pm":0,
+          "4pm":0,
+          "5pm":0,
+          "6pm":0
+        },
+        "wednesday": {
+          "9am":0,
+          "10am":0,
+          "11am":0,
+          "12pm":0,
+          "1pm":238,
+          "2pm":238,
+          "3pm":0,
+          "4pm":0,
+          "5pm":0,
+          "6pm":0
+        },
+        "thursday": {
+          "9am":0,
+          "10am":0,
+          "11am":0,
+          "12pm":0,
+          "1pm":0,
+          "2pm":0,
+          "3pm":0,
+          "4pm":0,
+          "5pm":0,
+          "6pm":0
+        },
+        "friday": {
+          "9am":0,
+          "10am":0,
+          "11am":0,
+          "12pm":0,
+          "1pm":0,
+          "2pm":0,
+          "3pm":0,
+          "4pm":0,
+          "5pm":0,
+          "6pm":0
+        }
       },
       "geometry": {
         "coordinates": [
@@ -315,7 +615,67 @@
       "type": "Feature",
       "properties": {
         "id": 8,
-        "name": "Lowell Lecture Hall"
+        "name": "Lowell Lecture Hall",
+        "monday": {
+          "9am":0,
+          "10am":0,
+          "11am":0,
+          "12pm":0,
+          "1pm":0,
+          "2pm":0,
+          "3pm":0,
+          "4pm":0,
+          "5pm":0,
+          "6pm":0
+        },
+        "tuesday": {
+          "9am":0,
+          "10am":147,
+          "11am":147,
+          "12pm":82,
+          "1pm":0,
+          "2pm":0,
+          "3pm":0,
+          "4pm":0,
+          "5pm":0,
+          "6pm":0
+        },
+        "wednesday": {
+          "9am":0,
+          "10am":0,
+          "11am":0,
+          "12pm":0,
+          "1pm":0,
+          "2pm":0,
+          "3pm":0,
+          "4pm":0,
+          "5pm":0,
+          "6pm":0
+        },
+        "thursday": {
+          "9am":0,
+          "10am":147,
+          "11am":147,
+          "12pm":82,
+          "1pm":0,
+          "2pm":0,
+          "3pm":0,
+          "4pm":0,
+          "5pm":0,
+          "6pm":0
+        },
+        "friday": {
+          "9am":0,
+          "10am":0,
+          "11am":0,
+          "12pm":0,
+          "1pm":0,
+          "2pm":0,
+          "3pm":0,
+          "4pm":0,
+          "5pm":0,
+          "6pm":0
+        }
       },
       "geometry": {
         "coordinates": [
@@ -350,7 +710,67 @@
       "type": "Feature",
       "properties": {
         "id": 7,
-        "name": "Memorial Hall"
+        "name": "Memorial Hall",
+        "monday": {
+          "9am":0,
+          "10am":567,
+          "11am":567,
+          "12pm":0,
+          "1pm":518,
+          "2pm":518,
+          "3pm":518,
+          "4pm":0,
+          "5pm":0,
+          "6pm":0
+        },
+        "tuesday": {
+          "9am":0,
+          "10am":0,
+          "11am":0,
+          "12pm":0,
+          "1pm":460,
+          "2pm":460,
+          "3pm":138,
+          "4pm":138,
+          "5pm":0,
+          "6pm":0
+        },
+        "wednesday": {
+          "9am":0,
+          "10am":567,
+          "11am":567,
+          "12pm":0,
+          "1pm":0,
+          "2pm":0,
+          "3pm":0,
+          "4pm":0,
+          "5pm":0,
+          "6pm":0
+        },
+        "thursday": {
+          "9am":0,
+          "10am":0,
+          "11am":0,
+          "12pm":0,
+          "1pm":460,
+          "2pm":460,
+          "3pm":0,
+          "4pm":0,
+          "5pm":0,
+          "6pm":0
+        },
+        "friday": {
+          "9am":0,
+          "10am":0,
+          "11am":0,
+          "12pm":0,
+          "1pm":0,
+          "2pm":0,
+          "3pm":0,
+          "4pm":0,
+          "5pm":0,
+          "6pm":0
+        }
       },
       "geometry": {
         "coordinates": [
@@ -489,7 +909,67 @@
       "type": "Feature",
       "properties": {
         "id": 2,
-        "name": "Western Ave"
+        "name": "Western Ave",
+        "monday": {
+          "9am":0,
+          "10am":0,
+          "11am":0,
+          "12pm":0,
+          "1pm":104,
+          "2pm":0,
+          "3pm":0,
+          "4pm":0,
+          "5pm":0,
+          "6pm":0
+        },
+        "tuesday": {
+          "9am":0,
+          "10am":0,
+          "11am":0,
+          "12pm":0,
+          "1pm":0,
+          "2pm":0,
+          "3pm":0,
+          "4pm":0,
+          "5pm":0,
+          "6pm":0
+        },
+        "wednesday": {
+          "9am":0,
+          "10am":0,
+          "11am":0,
+          "12pm":0,
+          "1pm":104,
+          "2pm":0,
+          "3pm":0,
+          "4pm":0,
+          "5pm":0,
+          "6pm":0
+        },
+        "thursday": {
+          "9am":0,
+          "10am":0,
+          "11am":0,
+          "12pm":0,
+          "1pm":0,
+          "2pm":0,
+          "3pm":0,
+          "4pm":0,
+          "5pm":0,
+          "6pm":0
+        },
+        "friday": {
+          "9am":0,
+          "10am":0,
+          "11am":0,
+          "12pm":0,
+          "1pm":0,
+          "2pm":0,
+          "3pm":0,
+          "4pm":0,
+          "5pm":0,
+          "6pm":0
+        }
       },
       "geometry": {
         "coordinates": [
@@ -532,7 +1012,67 @@
       "type": "Feature",
       "properties": {
         "id": 1,
-        "name": "SEC"
+        "name": "SEC",
+        "monday": {
+          "9am":0,
+          "10am":0,
+          "11am":169,
+          "12pm":169,
+          "1pm":0,
+          "2pm":0,
+          "3pm":0,
+          "4pm":95,
+          "5pm":95,
+          "6pm":95
+        },
+        "tuesday": {
+          "9am":0,
+          "10am":0,
+          "11am":153,
+          "12pm":153,
+          "1pm":78,
+          "2pm":0,
+          "3pm":0,
+          "4pm":0,
+          "5pm":0,
+          "6pm":0
+        },
+        "wednesday": {
+          "9am":0,
+          "10am":0,
+          "11am":169,
+          "12pm":169,
+          "1pm":0,
+          "2pm":0,
+          "3pm":0,
+          "4pm":0,
+          "5pm":0,
+          "6pm":0
+        },
+        "thursday": {
+          "9am":0,
+          "10am":0,
+          "11am":153,
+          "12pm":153,
+          "1pm":78,
+          "2pm":0,
+          "3pm":0,
+          "4pm":0,
+          "5pm":0,
+          "6pm":0
+        },
+        "friday": {
+          "9am":0,
+          "10am":0,
+          "11am":0,
+          "12pm":0,
+          "1pm":0,
+          "2pm":0,
+          "3pm":0,
+          "4pm":0,
+          "5pm":0,
+          "6pm":0
+        }
       },
       "geometry": {
         "coordinates": [
@@ -655,7 +1195,67 @@
       "type": "Feature",
       "properties": {
         "id": 6,
-        "name": "Science Center"
+        "name": "Science Center",
+        "monday": {
+          "9am":183,
+          "10am":0,
+          "11am":444,
+          "12pm":145,
+          "1pm":512,
+          "2pm":512,
+          "3pm":0,
+          "4pm":0,
+          "5pm":0,
+          "6pm":0
+        },
+        "tuesday": {
+          "9am":192,
+          "10am":0,
+          "11am":203,
+          "12pm":0,
+          "1pm":221,
+          "2pm":221,
+          "3pm":0,
+          "4pm":0,
+          "5pm":0,
+          "6pm":0
+        },
+        "wednesday": {
+          "9am":183,
+          "10am":0,
+          "11am":444,
+          "12pm":145,
+          "1pm":512,
+          "2pm":512,
+          "3pm":0,
+          "4pm":0,
+          "5pm":0,
+          "6pm":0
+        },
+        "thursday": {
+          "9am":192,
+          "10am":86,
+          "11am":289,
+          "12pm":0,
+          "1pm":221,
+          "2pm":221,
+          "3pm":0,
+          "4pm":0,
+          "5pm":0,
+          "6pm":0
+        },
+        "friday": {
+          "9am":183,
+          "10am":0,
+          "11am":257,
+          "12pm":145,
+          "1pm":161,
+          "2pm":161,
+          "3pm":0,
+          "4pm":0,
+          "5pm":0,
+          "6pm":0
+        }
       },
       "geometry": {
         "coordinates": [
@@ -730,7 +1330,67 @@
       "type": "Feature",
       "properties": {
         "id": 9,
-        "name": "William James"
+        "name": "William James",
+        "monday": {
+          "9am":79,
+          "10am":0,
+          "11am":0,
+          "12pm":0,
+          "1pm":0,
+          "2pm":0,
+          "3pm":0,
+          "4pm":0,
+          "5pm":0,
+          "6pm":0
+        },
+        "tuesday": {
+          "9am":0,
+          "10am":0,
+          "11am":0,
+          "12pm":0,
+          "1pm":0,
+          "2pm":0,
+          "3pm":0,
+          "4pm":0,
+          "5pm":0,
+          "6pm":0
+        },
+        "wednesday": {
+          "9am":79,
+          "10am":0,
+          "11am":0,
+          "12pm":0,
+          "1pm":0,
+          "2pm":0,
+          "3pm":0,
+          "4pm":0,
+          "5pm":0,
+          "6pm":0
+        },
+        "thursday": {
+          "9am":0,
+          "10am":0,
+          "11am":0,
+          "12pm":0,
+          "1pm":0,
+          "2pm":0,
+          "3pm":0,
+          "4pm":0,
+          "5pm":0,
+          "6pm":0
+        },
+        "friday": {
+          "9am":0,
+          "10am":0,
+          "11am":0,
+          "12pm":0,
+          "1pm":0,
+          "2pm":0,
+          "3pm":0,
+          "4pm":0,
+          "5pm":0,
+          "6pm":0
+        }
       },
       "geometry": {
         "coordinates": [
