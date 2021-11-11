@@ -10,9 +10,6 @@ function ControlPanel(props) {
         Map showing the relative capicty load of Harvard buildings at time <b>{time}</b>. Hover over a building to
         see details.
       </p>
-      <p>
-        Data source: <a href="www.census.gov">US Census Bureau</a>
-      </p>
       <hr />
 
       <div key={'year'} className="input">
