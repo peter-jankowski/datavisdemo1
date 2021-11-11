@@ -1,36 +1,28 @@
 import * as React from 'react';
 
 function ControlPanel(props) {
-  const {year} = props;
+  const {time} = props;
 
   return (
     <div className="control-panel">
       <h3>Interactive GeoJSON</h3>
       <p>
-        Map showing median household income by state in year <b>{year}</b>. Hover over a state to
+        Map showing the relative capicty load of Harvard buildings at time <b>{time}</b>. Hover over a building to
         see details.
       </p>
       <p>
         Data source: <a href="www.census.gov">US Census Bureau</a>
       </p>
-      <div className="source-link">
-        <a
-          href="https://github.com/visgl/react-map-gl/tree/6.1-release/examples/geojson"
-          target="_new"
-        >
-          View Code ↗
-        </a>
-      </div>
       <hr />
 
       <div key={'year'} className="input">
-        <label>Year</label>
+        <label>Time</label>
         <input
           type="range"
-          value={year}
-          min={1995}
-          max={2015}
-          step={1}
+          value={time}
+          min={900}
+          max={1800}
+          step={100}
           onChange={evt => props.onChange(evt.target.value)}
         />
       </div>
